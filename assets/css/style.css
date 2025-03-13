@@ -9,3 +9,53 @@
 a {
     text-decoration: none;
 }
+
+.circle {
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.button1 {
+    color: #3e0303;
+    color: #4a0404;
+    color: #500505;
+    color: #610707;
+    color: #720909;
+    color: #840b0b;
+    color: #9c0c0c;
+    color: #ba0d0d;
+    color: #dd1212;
+    color: #dd4b12;
+    color: #ea591f;
+    color: #ef6935;
+    color: #f17b4c;
+    color: #f4b461;
+    color: #f4e061;
+    color: #f4e26a;
+    color: #f3dd50;
+    color: #f5da2c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
